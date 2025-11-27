@@ -15,7 +15,10 @@ p::first-letter {
   font-size: 150%;
   color: red;
 }
-
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 </style>
 <body>
 
@@ -154,6 +157,9 @@ function w3_close() {
   mySidebar.style.display = "none";
   overlayBg.style.display = "none";
 }
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
 </script>
 
 </body>
