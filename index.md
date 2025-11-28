@@ -2,8 +2,9 @@
 layout: default
 ---
 
+# Projects
 
-# Resources for Russian Orthodox Church Music
+# Resourecs
 
 
 ```
