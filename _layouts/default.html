@@ -23,11 +23,11 @@
     <div class="wrapper">
 
       <section>
-        <div id="title">
+        <div id="title" style="text-align: center;">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
           <hr
-          <span style="text-align: center;">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
         </div>
 
         {{ content }}
