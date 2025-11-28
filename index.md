@@ -4,7 +4,8 @@ layout: default
 
 # Projects
 
-# Resourecs
+
+# Resources
 
 
 ```
