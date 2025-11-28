@@ -14,6 +14,8 @@ layout: default
 
 - [Simplifed Music for the Divine Liturgy](https://markjville.github.io/docs/SimplifiedMusic-DivineLiturgy-v2-1.pdf)
 
+- [Simplified Liturgy for Men's Trio]((https://markjville.github.io/docs/SimplifiedMusic-DivineL.pdf)
+
 
 ```
 ```
