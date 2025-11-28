@@ -4,7 +4,7 @@ layout: default
 
 # Projects
 
-- Церковно-Славянский [Последование изобразительных](https://github.com/markjville/ReadersServ-Slav.html).
+- Церковно-Славянский [Последование изобразительных](ReadersServ-Slav.html).
 - English
 
 # Resources
