@@ -12,7 +12,7 @@ layout: default
 
 # Resources
 
-- [Simplifed Music for the Divine Liturgy](/docs/SimplifiedMusic-Divine Liturgy-v2.1.pdf)
+- [Simplifed Music for the Divine Liturgy](docs/SimplifiedMusic-DivineLiturgy-v2-1.pdf)
 
 
 ```
