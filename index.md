@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Projects
-- [Последование изобразительных](ReadersServ-Slav.html]
+- [Последование изобразительных](https://github.com/markjville/ReadersServ-Slav.html]
 
 # Resources
 
