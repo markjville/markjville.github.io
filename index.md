@@ -6,13 +6,13 @@ layout: default
 
 - The Order of Typica without a priest | Последование изобразительных без священника
 
-  - [Церковно-Славянский](ReadersServ-Slav.html).
+  - [Церковно-Славянский](ReadersServ-Slav.html)
 
   - English
 
 # Resources
 
-- [Simplified Music for Divine Liturgy](
+- [Simplifed Music for the Divine Liturgy](/docs/SimplifiedMusic-Divine Liturgy-v2.1.pdf)
 
 
 ```
