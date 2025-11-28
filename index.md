@@ -12,6 +12,8 @@ layout: default
 
 # Resources
 
+- [Simplified Music for Divine Liturgy](
+
 
 ```
 ```
