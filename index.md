@@ -16,7 +16,7 @@ layout: default
 
 - [Simplified Liturgy for Men's Trio](https://markjville.github.io/docs/DivineLiturgy-SimplifiedMaleTrio.pdf)
 
-- [Selected Magnifications](https://markjville.github.io/docs/Selected Magnifications.pdf)
+- [Selected Magnifications](https://markjville.github.io/docs/Selected_Magnifications.pdf)
 
 
 ```
