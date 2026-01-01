@@ -50,3 +50,36 @@ p::first-letter {
 Nц7Y поклони1мсz, и3 сн7а славосл0вимъ и3 прест7aго д¦а вкyпэ воспои1мъ, зовyще и3 глаг0люще: всест7az трbце, сп7си2 всёхъ нaсъ.
 	И# нhнэ и3 при1снw, и3 во вёки вэкHвъ. Ґми1нь.
 	Мт7рь твою2 прив0дzтъ ти1 въ мlтву, лю1діе твои2 хrтE: мольбaми є3S щедрHты тво‰ дaждь нaмъ бlгjй, да тS прославлsемъ, и3з8 гр0ба нaмъ возсіsвшаго.
+
+		  // Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidebar, and add overlay effect
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+    overlayBg.style.display = "none";
+  } else {
+    mySidebar.style.display = 'block';
+    overlayBg.style.display = "block";
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+  mySidebar.style.display = "none";
+  overlayBg.style.display = "none";
+}
+  
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+
+</body>
+
+</html>
