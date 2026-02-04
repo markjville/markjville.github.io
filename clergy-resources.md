@@ -1,6 +1,6 @@
 
 
-# Resources for Clergy
+# **Resources for Clergy**
 
 
 ## Vespers
