@@ -1,6 +1,6 @@
 
 
-# <p style="text-align: center;">Resources for Clergy</P>
+<p style="text-align: center;">Resources for Clergy</P>
 
 
 ## Vespers
