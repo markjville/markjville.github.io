@@ -18,7 +18,7 @@ layout: default
 
 - [Selected Magnifications](https://markjville.github.io/docs/Selected_Magnifications.pdf)
 
-- [Resources for Clergy]
+- [Resources for Clergy](clergy-resources.md)
 
 
 ```
