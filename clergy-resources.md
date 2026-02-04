@@ -20,12 +20,12 @@ layout: default
 
 - [O Protection of Christians](https://markjville.github.io/docs/O-Protection-of-Christians-male-choir.pdf)
 
-- [Trisagion]()
+- [Trisagion](https://markjville.github.io/docs/Trisagion-Hierarchal-Male-choir.pdf)
 
-- [Augmented Litany- Petition on Hierarch]()
+- [Augmented Litany- Petition on Hierarch](https://markjville.github.io/docs/AugmentedLitany-KievanNo3-MaleChoir.pdf)
 
-- [Triple Lord have Mercy at ordination]()
+- [Triple Lord have Mercy at ordination](https://markjville.github.io/docs/AugmentedLItany-ANV-OldChants.pdf)
 
 ## Readings
 
-- [Prophecy of Ezekiel]()
+- [Prophecy of Ezekiel](https://markjville.github.io/docs/Reading_from_Prophec_Ezekiel.pdf)
