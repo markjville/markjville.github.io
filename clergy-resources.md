@@ -16,7 +16,7 @@ layout: default
 ## Hierarchal Services
 - [Axios](https://markjville.github.io/docs/Axios-for-Clergy-common-chant.pdf)
 
-- [Small Entrance](https://markjville.github.io/docs/O-Come-Let-Us-Worship-Hierarchal-Male Choir.pdf)
+- [Small Entrance](https://markjville.github.io/docs/O-Come-Let-Us-Worship-Hierarchal_MaleChoir.pdf)
 
 - [O Protection of Christians](https://markjville.github.io/docs/O-Protection-of-Christians-male-choir.pdf)
 
