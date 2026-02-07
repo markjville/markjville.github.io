@@ -11,7 +11,7 @@
 
 - [9th Ode of Canon]
 
-- [Refrains at the Canon]](https://markjville.github.io/docs/Refrains-Canons.pdf)
+- [Refrains at the Canon](https://markjville.github.io/docs/Refrains-Canons.pdf)
 
 ## Hierarchal Services
 - [Axios](https://markjville.github.io/docs/Axios-for-Clergy-common-chant.pdf)
