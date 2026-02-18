@@ -26,6 +26,9 @@
 
 - [Triple Lord have Mercy at ordination](https://markjville.github.io/docs/AugmentedLItany-ANV-OldChants.pdf)
 
+## At Services for the Departed
+-[For the Departed](https://markjville.github.io/docs/For-Departed-Clergy.pdf)
+
 ## Readings
 
 - [Prophecy of Ezekiel](https://markjville.github.io/docs/Reading_from_Prophec_Ezekiel.pdf)
