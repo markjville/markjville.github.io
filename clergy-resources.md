@@ -33,5 +33,6 @@
 - [Many Years]
 
 ## Readings
-
+- [Epistle Reading]
+  
 - [Prophecy of Ezekiel](https://markjville.github.io/docs/Reading_from_Prophec_Ezekiel.pdf)
