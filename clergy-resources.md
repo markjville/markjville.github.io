@@ -36,3 +36,7 @@
 - [Epistle Reading]
   
 - [Prophecy of Ezekiel](https://markjville.github.io/docs/Reading_from_Prophec_Ezekiel.pdf)
+
+- [God is With Us-Great Compline]
+
+- [The Song of Moses and the Song the of the Three Children]
