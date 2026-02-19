@@ -2,10 +2,8 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<style type="text/css">
-		@page { size: 8.5in 11in; margin: 0.79in }
-		p { margin-bottom: 0.1in; line-height: 115%; background: transparent }
-	</style>
+	<meta name="viewport" content="width=device-width, initial-scale=0.3"/>
+
 </head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="text-indent: 1in; margin-bottom: 0in; margin-right: 1in; line-height: 100%; background: transparent">
 <font size="6" style="font-size: 24pt">Traditional Refrains at the
