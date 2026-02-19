@@ -1,6 +1,5 @@
 
 # Traditional Refrains at the Canons
-
   
 
 **The Trinity**
