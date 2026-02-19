@@ -6,8 +6,8 @@
 
 </head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="text-indent: 1in; margin-bottom: 0in; margin-right: 1in; line-height: 100%; background: transparent">
-<font size="6" style="font-size: 24pt">Traditional Refrains at the
-Canons</font></p>
+<H1>Traditional Refrains at the
+Canons</H1></p>
 <p align="center" style="text-indent: 1in; margin-bottom: 0in; margin-right: 1in; line-height: 100%; background: transparent">
 <br/>
 
