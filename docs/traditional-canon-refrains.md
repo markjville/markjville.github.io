@@ -4,9 +4,7 @@
 <!--This file was converted to xhtml by LibreOffice - see https://cgit.freedesktop.org/libreoffice/core/tree/filter/source/xslt for the code.-->
 
 <head profile="http://dublincore.org/documents/dcmi-terms/">
-
-<meta name="viewport" content="width=device-width, initial-scale=0.3"/>
-
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
 <title xml:lang="en-US">- no title specified</title>
 <meta name="DCTERMS.title" content="" xml:lang="en-US"/>
 
@@ -50,6 +48,8 @@
     /* ODF styles with no properties representable as CSS:
     .dp1 .T1 .T2 .T3  { } */
 </style>
+<meta name="viewport" content="width=device-width, initial-scale=0.3"/>
+
 </head>
 
 <body dir="ltr" style="max-width:8.5in;margin-top:0.7874in; margin-bottom:0.7874in; margin-left:0.7874in; margin-right:0.7874in; ">
