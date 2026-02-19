@@ -1,6 +1,6 @@
 # Traditional Refrains at the Canons
 
-### # The Trinity
+### The Trinity
 
 “Most holy Trinity, our God, glory to Thee.”
 
