@@ -33,6 +33,8 @@
 - [Many Years]
 
 ## Readings
+- [Canon Refrains](https://markjville.github.io/docs/traditional-canon-refrains.md)
+  
 - [Epistle Reading]
   
 - [Prophecy of Ezekiel](https://markjville.github.io/docs/Reading_from_Prophec_Ezekiel.pdf)
