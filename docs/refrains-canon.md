@@ -116,5 +116,3 @@
 ### In place of "Glory..." at the eighth ode
 
 “Let us bless the Father, the Son, and the Holy Spirit, the Lord.”
-
-[back](./)
