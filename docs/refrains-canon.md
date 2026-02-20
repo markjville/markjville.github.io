@@ -1,44 +1,120 @@
+# Traditional Refrains at the Canons
 
+### The Trinity
 
-<h1 style="text-align: center;">Test</h1>
+“Most holy Trinity, our God, glory to Thee.”
 
+### The Savior
 
-## Vespers
-- [O Come Let Us Worship God Our King](https://markjville.github.io/docs/Vespers-O-Come-Let-Us-Worship.pdf)
+“Glory to Thee, our God, glory to Thee”
 
-## Matins
-- [Selected Magnifications](https://markjville.github.io/docs/Selected-Magnifications-male-quartet.pdf)
+### The Resurrection
 
-- [9th Ode of Canon]
+“Glory to Thy holy resurrection, O Lord.”
 
-- [Refrains at the Canon](https://markjville.github.io/docs/Refrains_at_the_Canon.pdf)
+### The Cross and resurrection
 
-## Hierarchal Services
-- [Axios](https://markjville.github.io/docs/Axios-for-Clergy-common-chant.pdf)
+“Glory to Thy precious Cross and resurrection, O Lord.”
 
-- [Small Entrance](https://markjville.github.io/docs/O-Come-Let-Us-Worship-Hierarchal_MaleChoir.pdf)
+### The Cross
 
-- [O Protection of Christians](https://markjville.github.io/docs/O-Protection-of-Christians-male-choir.pdf)
+“Glory to Thy precious Cross, O Lord.”
 
-- [Trisagion](https://markjville.github.io/docs/Trisagion-Hierarchal-Male-choir.pdf)
+### Penitential nature
 
-- [Augmented Litany- Petition on Hierarch](https://markjville.github.io/docs/AugmentedLitany-KievanNo3-MaleChoir.pdf)
+“Have mercy on me, O God, have mercy on me.”
 
-- [Triple Lord have Mercy at ordination](https://markjville.github.io/docs/AugmentedLItany-ANV-OldChants.pdf)
+### The Theotokos
 
-## At Services for the Departed
-- [For the Departed](https://markjville.github.io/docs/For-Departed-Clergy.pdf)
+“Most holy Theotokos, save us.”
 
-## Intoning of "Many Years"
-- [Many Years]
+### The forerunner
 
-## Readings
-- [Canon Refrains](https://markjville.github.io/docs/refrains-canon.md)
-  
-- [Epistle Reading]
-  
-- [Prophecy of Ezekiel](https://markjville.github.io/docs/Reading_from_Prophec_Ezekiel.pdf)
+“Holy great John, forerunner of the Lord, pray to God for us. “
 
-- [God is With Us-Great Compline]
+### Bodiless Hosts
 
-- [The Song of Moses and the Song the of the Three Children]
+“Holy archangels and angels, pray to God for us.“
+
+### Archangel Michael
+
+“Holy angelic-commander of God Michael, pray to God for us.”
+
+### Apostles
+
+“Holy apostle of Christ, N., pray to God for us.”
+
+### Evangelists
+
+“Holy apostle and evangelist N. pray to God for us.”
+
+### Prophets
+
+“Holy prophet of God N. pray to God for us.”
+
+### Hierarchs
+
+“Holy hierarch father N. pray to God for us.”
+
+### Martyrs
+
+“Holy (great-) martyr N. pray to God for us.”
+
+### Hieromartyrs (priests and bishops)
+
+“Holy hieromartyr N. pray to God for us.”
+
+### Monks
+
+“Venerable father N. pray to God for us.”
+
+### Nuns
+
+“Venerable mother N. pray to God for us.”
+
+### Righteous non-monastics
+
+“Holy righteous N. pray to God for us.”
+
+### Fools for Christ's sake
+
+“Holy blessed N. pray to God for us.”
+
+### Princes
+
+“Holy right believing prince N. pray to God for us.”
+
+### Princesses
+
+“Holy right believing princess N. pray to God for us.”
+
+### May 21
+
+> “Holy equals of the apostles rulers Constantine and Helen pray to God
+> for us.”
+
+### Royal Martyr Nicholas
+
+“Holy God-crowned emperor Nicholas, pray to God for us.”
+
+### Prophet Elias
+
+“Holy glorious prophet of God Elias, pray to God for us.”
+
+### Unmercenary healers
+
+“Holy unmercenary and wonderworker N. , pray to God for us.”
+
+### Before the next to the last troparion
+
+“Glory to the Father, and to the Son, and to the Holy Spirit.”
+
+### Before the last troparion
+
+“Now and ever, and unto the ages of ages. Amen. “
+
+### In place of "Glory..." at the eighth ode
+
+“Let us bless the Father, the Son, and the Holy Spirit, the Lord.”
+
+[back](./)
