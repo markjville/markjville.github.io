@@ -33,7 +33,7 @@
 - [Many Years]
 
 ## Readings
-- [Canon Refrains](https://markjville.github.io/docs/Refrains_at_the_Canon.pdf)
+- [Canon Refrains](https://markjville.github.io/docs/refrains-canon.md)
   
 - [Epistle Reading]
   
