@@ -1,3 +1,8 @@
+---
+title: Traditional Refrains at the Canons
+---
+
+
 # Traditional Refrains at the Canons
 
 ### The Trinity
