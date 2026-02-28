@@ -42,3 +42,7 @@
 - [God is With Us-Great Compline]
 
 - [The Song of Moses and the Song the of the Three Children]
+
+## At Pascha
+
+- [Thy Resurrection, O Christ Saviour](docs/Thy-Resurrection-O-Christ-Saviour-For-Clergy)
