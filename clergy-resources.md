@@ -45,4 +45,4 @@
 
 ## At Pascha
 
-- [Thy Resurrection, O Christ Saviour](docs/Thy-Resurrection-O-Christ-Saviour-For-Clergy)
+- [Thy Resurrection, O Christ Saviour](docs/Thy-Resurrection-O-Christ-Saviour-For-Clergy.pdf)
