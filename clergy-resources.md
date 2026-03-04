@@ -9,7 +9,7 @@
 ## Matins
 - [Selected Magnifications](https://markjville.github.io/docs/Selected-Magnifications-male-quartet.pdf)
 
-- [9th Ode of Canon]
+- [9th Ode of Canon](docs/at-9th-ode-clergy.pdf)
 
 - [Refrains at the Canon](https://markjville.github.io/docs/Refrains_at_the_Canon.pdf)
 
