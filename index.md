@@ -16,6 +16,8 @@
 
 - [Selected Magnifications](https://markjville.github.io/docs/Selected_Magnifications.pdf)
 
+- [Funeral for laity-Male Choir](docs/Funeral-TTBB.pdf)
+
 - [Resources for Clergy & Reader](clergy-resources.md)
 
 
