@@ -14,9 +14,6 @@
 
 - [Последование по святому причашению]()
 
-- [Before Communion]()
-
-- [After Communion]()
 
 # Resources
 
