@@ -30,6 +30,8 @@
 
 - [O Gentle Light 3-voice](docs/GentleLight-Kievan-TTB.pdf)
 
+- [The Commemorations after "It Is Truly Meet"](docs/each-and-everyone.pdf)
+
 ## At Services for the Departed
 - [For the Departed](https://markjville.github.io/docs/For-Departed-Clergy.pdf)
 
