@@ -36,7 +36,7 @@
 - [For the Departed](https://markjville.github.io/docs/For-Departed-Clergy.pdf)
 
 ## Intoning of "Many Years"
-- [Many Years]
+- [Many Years](docs/many-years-clergy.pdf)
 
 ## Readings
 - [Canon Refrains](docs/refrains-canon.md)
