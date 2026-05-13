@@ -39,7 +39,7 @@
 - [Many Years](docs/many-years-clergy.pdf)
 
 ## Readings
-- [Canon Refrains](docs/refrains-canon.md)
+- [Refrains at the Canon](docs/refrains-canon.md)
   
 - [Epistle Reading](docs/epistle-reading.pdf)
   
