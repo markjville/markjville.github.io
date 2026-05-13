@@ -90,8 +90,7 @@
 
 ### May 21
 
-> “Holy equals of the apostles rulers Constantine and Helen pray to God
-> for us.”
+“Holy equals of the apostles rulers Constantine and Helen pray to God for us.”
 
 ### Royal Martyr Nicholas
 
