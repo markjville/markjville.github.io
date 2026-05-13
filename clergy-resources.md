@@ -41,7 +41,7 @@
 ## Readings
 - [Canon Refrains](docs/refrains-canon.md)
   
-- [Epistle Reading]
+- [Epistle Reading](docs/epistle-reading.pdf)
   
 - [Prophecy of Ezekiel](https://markjville.github.io/docs/Reading_from_Prophec_Ezekiel.pdf)
 
