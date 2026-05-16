@@ -27,7 +27,7 @@
 
 - [Funeral for laity-Male Choir](docs/Funeral-TTBB.pdf)
 
-- [На Погребении мирских человек-САТБ](/docs/Погребении-САТБ.pdf)
+- [На Погребении мирских человек-Для смешанного хора](/docs/Погребении-САТБ.pdf)
   
 - [Music for the Service of Holy Unction](/docs/unction.pdf)
 
