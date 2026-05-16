@@ -26,6 +26,8 @@
 - [Funeral for laity-Mixed Choir](docs/funeral-satb.pdf)
 
 - [Funeral for laity-Male Choir](docs/Funeral-TTBB.pdf)
+  
+- [Music for the Service of Holy Unction](/docs/unction.pdf)
 
 - [Resources for Clergy & Reader](clergy-resources.md)
 
