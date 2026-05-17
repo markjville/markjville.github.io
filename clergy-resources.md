@@ -5,13 +5,13 @@
 ## The Eight Tones and Automela
 - [Sticheron and refrain](/docs/8t-sticheron.pdf)
   
-- [Troparion]()
+- [Troparion](/docs/8t-troparion.pdf)
 
-- [Prokeimenon]()
+- [Prokeimenon](/docs/8t-prokeimena.pdf)
 
-- [Irmos]()
+- [Irmos](/docs/8t-irmos.pdf)
 
-- [Automela]()
+- [Automela](/docs/8t-automela.pdf)
 
 ## Vespers
 - [O Come Let Us Worship God Our King](https://markjville.github.io/docs/Vespers-O-Come-Let-Us-Worship.pdf)
