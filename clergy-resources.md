@@ -2,6 +2,16 @@
 
 <h1 style="text-align: center;">Resources for Clergy & Reader</h1>
 
+## The Eight Tones and Automela
+- Sticheron and refrain[]()
+  
+- Troparion[]()
+
+- Prokeimenon[]()
+
+- Irmos[]()
+
+- Automela[]()
 
 ## Vespers
 - [O Come Let Us Worship God Our King](https://markjville.github.io/docs/Vespers-O-Come-Let-Us-Worship.pdf)
