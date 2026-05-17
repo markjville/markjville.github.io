@@ -11,7 +11,7 @@
 
 - [Irmos](/docs/8t-irmos.pdf)
 
-- [Automela](/docs/8t-automela.pdf)
+- [Automela](/docs/automela.pdf)
 
 ## Vespers
 - [O Come Let Us Worship God Our King](https://markjville.github.io/docs/Vespers-O-Come-Let-Us-Worship.pdf)
