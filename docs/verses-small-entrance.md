@@ -1,4 +1,4 @@
-# The Verses at the small entrance
+# The verses at the small entrance
 
 ---
 
