@@ -13,6 +13,8 @@ O come, let us worship and fall down before Christ; Who art wondrous in the sain
 
 # Verses sung during afterfeasts at daily liturgy or the secondary verse of a hierarchal liturgy
 
+---
+
 ## Exultation
 O come, let us worship and fall down before Christ; O Son of God Who wast crucified in the flesh, save us who chant unto Thee: Alleluia! 
 
