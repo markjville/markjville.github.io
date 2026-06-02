@@ -114,8 +114,6 @@
 
 ### In place of "Glory..." at the eighth ode
 
-[Back to Home](https://markjville.github.io/)
-
 “Let us bless the Father, the Son, and the Holy Spirit, the Lord.”
 
-[back](./)
+[Back to Home](https://markjville.github.io/)
