@@ -28,6 +28,8 @@
 
 - [Small Entrance](https://markjville.github.io/docs/O-Come-Let-Us-Worship-Hierarchal_MaleChoir.pdf)
 
+- [Verses at the the Small Entrance](docs/verses-small-entrance.md)
+
 - [O Protection of Christians](https://markjville.github.io/docs/O-Protection-of-Christians-male-choir.pdf)
 
 - [Trisagion](https://markjville.github.io/docs/Trisagion-Hierarchal-Male-choir.pdf)
