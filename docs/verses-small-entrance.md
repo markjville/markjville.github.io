@@ -3,8 +3,11 @@
 ## On Sunday
 O come, let us worship and fall down before Christ; O Son of God Who didst rise from the dead save us who chant unto Thee: Alleluia! 
 
-## On Feasts of the Theotokos
+## On feasts of the Theotokos
 O come, let us worship and fall down before Christ; through the prayers of the Theotokos save us who chant unto Thee: Alleluia! 
+
+## On feasts for a saint(s)
+O come, let us worship and fall down before Christ; Who art wondrous in the saints save us who chant unto Thee: Alleluia! 
 
 # Verses sung during afterfeasts at daily liturgy or the secondary verse of a hierarchal liturgy
 
