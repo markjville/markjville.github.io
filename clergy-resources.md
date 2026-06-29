@@ -36,6 +36,8 @@
 
 - [As Many as Have Been Baptized](docs/as-many-as-have-been-baptized-TTBB.pdf)
 
+- [Before Thy Cross](docs/Before-Thy-Cross-TTBB.pdf)
+
 - [Augmented Litany- Petition on Hierarch](https://markjville.github.io/docs/AugmentedLitany-KievanNo3-MaleChoir.pdf)
 
 - [Triple Lord have Mercy at ordination](https://markjville.github.io/docs/AugmentedLItany-ANV-OldChants.pdf)
