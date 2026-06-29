@@ -34,6 +34,8 @@
 
 - [Trisagion](https://markjville.github.io/docs/Trisagion-Hierarchal-Male-choir.pdf)
 
+- [As Many as Have Been Baptized](docs/as-many-as-have-been-baptized-TTBB)
+
 - [Augmented Litany- Petition on Hierarch](https://markjville.github.io/docs/AugmentedLitany-KievanNo3-MaleChoir.pdf)
 
 - [Triple Lord have Mercy at ordination](https://markjville.github.io/docs/AugmentedLItany-ANV-OldChants.pdf)
